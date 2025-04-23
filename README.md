@@ -27,7 +27,7 @@
 
 <https://nazenavi.com/games/namebattler/index.html>
 
-[ソースコード](/src/name-battle-royale.ts)
+[ソースコード](src/ts/name-battle-royale.ts)
 
 ###  1.2. <a name='-1'></a>開発の狙い
 - 次のゲーム作りに活かす為、短期間で完成させることを心掛けた
