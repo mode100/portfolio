@@ -55,7 +55,7 @@
 
 <https://bulletin-board-game.vercel.app>
 
-[ソースコード](https://github.com/mode100/vercel-site1)
+[ソースコード](https://github.com/mode100/vercel-site1-public)
 
 ###  2.2. <a name='-1'></a>開発の狙い
 - Reactの基本的な書き方を学ぶ為
